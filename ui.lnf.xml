@@ -1,7 +1,6 @@
 <application>
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="12" />
-    <option name="FONT_FACE" value="Calibri" />
     <option name="FONT_SCALE" value="0.9166667" />
     <option name="FONT_SIZE" value="16" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
@@ -13,6 +12,7 @@
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="smoothScrolling" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>

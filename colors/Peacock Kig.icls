@@ -14163,6 +14163,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="RHTML_EXPRESSION_END_ID" baseAttributes="XML_TAG_NAME" />
+    <option name="RHTML_EXPRESSION_START_ID" baseAttributes="XML_TAG_NAME" />
+    <option name="RHTML_OMIT_NEW_LINE_ID" baseAttributes="XML_ATTRIBUTE_NAME" />
+    <option name="RHTML_SCRIPTING_BACKGROUND_ID" baseAttributes="XML_TAG_NAME" />
+    <option name="RHTML_SCRIPTLET_END_ID" baseAttributes="XML_TAG_NAME" />
+    <option name="RHTML_SCRIPTLET_START_ID" baseAttributes="XML_TAG_NAME" />
     <option name="RUBY_EXPR_IN_STRING">
       <value />
     </option>
@@ -14567,11 +14573,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="YAML_SCALAR_DSTRING">
-      <value>
-        <option name="FOREGROUND" value="bcd42a" />
-      </value>
-    </option>
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="bcd42a" />
@@ -14579,12 +14580,8 @@
     </option>
     <option name="YAML_SCALAR_LIST">
       <value>
-        <option name="FOREGROUND" value="a5c261" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_STRING">
-      <value>
-        <option name="FOREGROUND" value="bcd42a" />
+        <option name="FOREGROUND" value="ada6ed" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="YAML_SCALAR_VALUE">
@@ -14598,12 +14595,6 @@
       </value>
     </option>
     <option name="YAML_SIGN">
-      <value>
-        <option name="FOREGROUND" value="a5c261" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="YAML_TEXT">
       <value>
         <option name="FOREGROUND" value="a5c261" />
         <option name="EFFECT_TYPE" value="2" />
