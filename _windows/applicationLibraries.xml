@@ -756,11 +756,13 @@
     </library>
     <library name="byebug (v10.0.2, ruby-2.3.1-p112) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/10.0.2" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/byebug-10.0.2/exe" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/byebug-10.0.2/ext" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/10.0.2" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/byebug-10.0.2/exe" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/byebug-10.0.2/ext" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/byebug-10.0.2/lib" />
@@ -2725,6 +2727,7 @@
     </library>
     <library name="nio4r (v2.3.1, ruby-2.3.1-p112) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/2.3.1" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nio4r-2.3.1/ext" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nio4r-2.3.1/lib" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nio4r-2.3.1/spec" />
@@ -2732,6 +2735,7 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/2.3.1" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nio4r-2.3.1/ext" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nio4r-2.3.1/lib" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nio4r-2.3.1/spec" />
@@ -2874,6 +2878,7 @@
     </library>
     <library name="nokogiri (v1.8.3, ruby-2.3.1-p112) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.3" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.3-x64-mingw32/bin" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.3-x64-mingw32/ext" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.3-x64-mingw32/lib" />
@@ -2883,6 +2888,7 @@
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.3-x64-mingw32/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.3" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.3-x64-mingw32/bin" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.3-x64-mingw32/ext" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.3-x64-mingw32/lib" />
@@ -5471,10 +5477,12 @@
     </library>
     <library name="websocket-driver (v0.7.0, ruby-2.3.1-p112) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.7.0" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/websocket-driver-0.7.0/ext" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.7.0" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/websocket-driver-0.7.0/ext" />
         <root url="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
